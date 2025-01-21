@@ -1,7 +1,5 @@
 # I'm Luigui Saenz 👋
 ## I'm a Full Stack Developer
-___
-
 I’m currently working on React, Node and Python Projects!
 I’m motivated to learn everything
 I'm addicted to Movies and Cars!
