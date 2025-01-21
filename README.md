@@ -1,16 +1,15 @@
-## Hi there 👋
+i, I'm Luigui Saenz 👋
+I'm a Full Stack Developer
+I’m currently working on React, Node and Python Projects!
+I’m motivated to learn everything
+I'm addicted to Movies and Cars!
+Connect with me:
+NicolasNavarrete | LinkedIn
 
-<!--
-**LuiguiSaenz/LuiguiSaenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Languages and Tools:
+Visual Studio CodeHTML5CSS3JavaScriptTypeScriptReact.jsNext.jsNode.jsExpressMongoDBGitGitHubFirebasePythonTensorFlowPHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
