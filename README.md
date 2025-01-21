@@ -1,14 +1,17 @@
-i, I'm Luigui Saenz 👋
-I'm a Full Stack Developer
+# I'm Luigui Saenz 👋
+## I'm a Full Stack Developer
+___
+
 I’m currently working on React, Node and Python Projects!
 I’m motivated to learn everything
 I'm addicted to Movies and Cars!
-Connect with me:
-NicolasNavarrete | LinkedIn
 
+## Connect with me:
 
-Languages and Tools:
-Visual Studio CodeHTML5CSS3JavaScriptTypeScriptReact.jsNext.jsNode.jsExpressMongoDBGitGitHubFirebasePythonTensorFlowPHP
+[Luigui Saenz | LinkedIn](https://www.linkedin.com/in/luigui-saenz-b5aa7a146/)
+
+## Languages and Tools:
+
 
 
 
