@@ -6,7 +6,7 @@ I'm addicted to Movies and Cars!
 
 ## Connect with me:
 
-![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg) [Luigui Saenz | LinkedIn](https://www.linkedin.com/in/luigui-saenz-b5aa7a146/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [Luigui Saenz | LinkedIn](https://www.linkedin.com/in/luigui-saenz-b5aa7a146/)
 
 ## Languages and Tools:
 
