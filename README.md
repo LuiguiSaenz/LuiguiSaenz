@@ -7,8 +7,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="30" height="30">
 </a>
 
-### Languages and Tools:
-
 
 
 
