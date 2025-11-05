@@ -7,8 +7,8 @@ Passionate about building scalable web applications and crafting efficient backe
 ---
 
 ## 🛠 Tech Stack
-- **Frontend:** React, JavaScript, TypeScript, HTML, CSS, TailwindCSS
-- **Backend:** Django, Python, Node.js, Express
+- **Frontend:** React, Vue, React Native, Nextjs, Expo, JavaScript, TypeScript, HTML, CSS, TailwindCSS
+- **Backend:** Django, Python, PHP, Laravel, Node.js, Express
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **DevOps & Cloud:** AWS (S3, Lambda, RDS), Docker
 - **Tools & Others:** Git, REST APIs, GraphQL, WebSockets
